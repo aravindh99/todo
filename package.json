@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Todo List Project ",
 	"main": "index.js",
-	"homepage": "",
+	"homepage": "https://aravindh99.github.io/todo",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"build": "webpack --mode production",
